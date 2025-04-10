@@ -7,7 +7,7 @@
         "flux": "^4.0.1",
         "react-base16-styling": "^0.6.0",
         "react-lifecycles-compat": "^3.0.4",
-        "@lehuyquanganh/react-textarea-autosize": "8.5.12"
+        "@lehuyquanganh/react-textarea-autosize": "8.6.0"
     },
     "devDependencies": {
         "@babel/eslint-parser": "^7.12.1",
